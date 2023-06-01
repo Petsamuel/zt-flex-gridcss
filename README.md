@@ -1,2 +1,2 @@
 # zt-flex-gridcss
-zuriTask on flexbox and grid
+zuriTask on flex and grid
